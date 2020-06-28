@@ -1,0 +1,4 @@
+Message[302] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0_INTCON.X\MAIN.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0_INTCON.X\MAIN.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0_INTCON.X\MAIN.ASM 103 : Using default destination of 1 (file).
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0_INTCON.X\MAIN.ASM 108 : Using default destination of 1 (file).
