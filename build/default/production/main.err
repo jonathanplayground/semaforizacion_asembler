@@ -1,0 +1,7 @@
+Message[302] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 24 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 29 : Found label after column 1. (MAIN_LOOP)
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 65 : Using default destination of 1 (file).
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 74 : Using default destination of 1 (file).
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 83 : Using default destination of 1 (file).
+Message[305] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 92 : Using default destination of 1 (file).
+Message[302] C:\USERS\JONAT\DOCUMENTS\MPLAB\SEMAFORIZACION_TMR0.X\MAIN.ASM 101 : Register in operand not in bank 0.  Ensure that bank bits are correct.

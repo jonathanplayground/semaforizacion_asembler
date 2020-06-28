@@ -1,0 +1,63 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Thu Jun 25 02:13:32 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                MAIN_PROG       code   0x000003    program   0x000084
+.config_2007_BUILD/DEFAULT/PRODUCTION/MAIN.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000044      
+                            0x002007    0x002007      
+            70 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+              DEC_RET_10S   0x000028    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+           DEC_RET_1500mS   0x000022    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+              DEC_RET_15S   0x00002e    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               DEC_RET_5S   0x000034    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                   INICIO   0x00000e    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                     LOOP   0x000040    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                MAIN_LOOP   0x000009    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                  RET_10S   0x000026    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               RET_1500mS   0x000020    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                  RET_15S   0x00002c    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                 RET_50uS   0x000039    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                   RET_5S   0x000032    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                    START   0x000003    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                 viaAncha   0x000014    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               viaAngosta   0x00001a    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                MAIN_LOOP   0x000009    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                   INICIO   0x00000e    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                 viaAncha   0x000014    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               viaAngosta   0x00001a    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               RET_1500mS   0x000020    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+           DEC_RET_1500mS   0x000022    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                  RET_10S   0x000026    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+              DEC_RET_10S   0x000028    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                  RET_15S   0x00002c    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+              DEC_RET_15S   0x00002e    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                   RET_5S   0x000032    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+               DEC_RET_5S   0x000034    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                 RET_50uS   0x000039    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+                     LOOP   0x000040    program     static C:\Users\jonat\Documents\MPLAB\semaforizacion_TMR0.X\main.asm
+
+
